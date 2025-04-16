@@ -1,18 +1,15 @@
 # About-me
-Kseniya aka LittleFox
-A little about myself )))
 
 Hello everyone
 My name is Ksyusha, I was born in 1985, in Kamchatka))
 
+![image](https://github.com/user-attachments/assets/98a535f5-19b0-484c-ae63-c079729e8d37)
 
-Ksyu little baby =)
 I've been and lived in so many places in my life). I currently live in the city of Bryansk.
 
-
 # Education
-In 2002, she graduated from Alekseevskaya Secondary School.
 
+In 2002, she graduated from Alekseevskaya Secondary School.  
 In 2007, Bryansk State Technical University (BSTU) with a degree in engineering (instrument systems for mechanical engineering production).
 
 
